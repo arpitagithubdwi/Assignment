@@ -1,0 +1,24 @@
+Assignment-1
+
+HOW TO INSTALL APACHE SERVER
+
+Step 1- Firstly open the browser and search 'apache server download for windows 10'
+Step 2- Go to apache website and download zip file for windows.
+Step 3- Unzip the file and extract the folder Apache 24 to C drive.
+Step 4- Then open Command prompt and run as administrator.
+Step 5- Run command 'cd C:\Apache 24\bin.
+Step 6- Run command 'httpd -k install'.
+Now Apache server is installed successfully.
+Step 7- Go to services, click on Apache 2.4 then start the service.
+Step 8- Open browser search localhost '127.0.0.1' . It shows "It works !".
+Step 9- And then Sign up the  Github account.
+Step10- And go to your Repository.
+Step11- Now create  new Repository .
+Step12- And add new Repository name which you identify.
+Step13- Now we should check new Repository is Public and finally we can live all the other options default.
+Step14- And then create Repository.
+Step15- Now we upload HTML code.
+Step16- And go to settings and then pages.
+Step17- Choose Branch "Main" and save it.
+Step18-Now website is publicly Available.
+                         URL-https://arpitagithubdwi.github.io/arpitagithubdwiwebsite/
